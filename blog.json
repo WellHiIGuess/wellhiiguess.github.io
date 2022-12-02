@@ -1,0 +1,8 @@
+{
+     "length": 1,
+     "1": {
+          "title": "Blog Post One",
+          "date": "12/1/2022",
+          "body": "Hello, I don't know if I'm gonna actually post on here. I finally finished this website! I have been making this site for a while, mainly because I took a break from it for a while and also I had to learn svelte to make it. I hope I can document my projects here since I have no other place to really do that. Anyway thats all for this post."
+     }
+}

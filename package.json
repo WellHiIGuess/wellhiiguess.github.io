@@ -1,0 +1,13 @@
+{
+  "name": "api-boy",
+  "version": "1.0.0",
+  "description": "server for my website",
+  "main": "server.ts",
+  "scripts": {
+    "test": "",
+    "start": "node server.js",
+    "prestart": "npx tsc server.ts"
+  },
+  "author": "Benji Lane",
+  "license": "ISC"
+}
